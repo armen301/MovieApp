@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="rating">Rating: %f</string>
+    <string name="premiered_on">Premiered On: %s</string>
+    <string name="filter">Filter</string>
+    <string name="ok">OK</string>
+    <string name="budget">%d $</string>
+</resources>

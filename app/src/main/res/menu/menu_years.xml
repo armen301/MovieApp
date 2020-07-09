@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/year_2020"
+        android:title="2020" />
+
+    <item
+        android:id="@+id/year_2000"
+        android:title="2000" />
+
+    <item
+        android:id="@+id/year_1900"
+        android:title="1900" />
+</menu>
